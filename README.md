@@ -93,7 +93,7 @@ While I'm continuously striving to get better, these are some tools I have learn
     <td colspan="2" align="center"><strong>Main Stack</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://skillicons.dev/icons?i=py,flask,fastapi" /></td>
+    <td colspan="2" align="center"><img src="https://skillicons.dev/icons?i=py,flask,nodejs,express" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Languages and Frameworks</strong></td>
