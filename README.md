@@ -8,9 +8,7 @@
   <a href="https://www.linkedin.com/in/obatula/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Obatula%20Fuad-informational?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:obatulafuad@gmail.com?subject=Hi%20Fuad!"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-obatulafuad@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white"></a>
   <a href="https://gitroll.io/profile/uWPoBAgjSdwOAiAmqb0fmFVqzOa33"><img alt="Gmail" src="https://img.shields.io/badge/GitRoll-Obatula%20Fuad-informational?style=flat-square&color=00ADB5&logo=git&logoColor=white"></a> 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Akinwalee&label=Profile%20views&color=0e75b6&style=flat" alt="Akinwalee" />
-  </p>
+  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
 </div>
 
@@ -151,4 +149,8 @@ TODO
 
 Project Descriptions:
 For each project in the "Noteworthy Projects" section, you might want to emphasize key takeaways or learning experiences. For example, for StudyHack, mention what challenges you faced or the most valuable lessons learned during the hackathon.
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Akinwalee&label=Profile%20views&color=0e75b6&style=flat" alt="Akinwalee" />
+  </p>
 -->
