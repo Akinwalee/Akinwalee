@@ -14,7 +14,7 @@
 
 <div>
 
-I'm Obatula Fuad, a 4th-year computer science student and software engineer passionate about solving problems through software solutions. 
+I'm Obatula Fuad, a computer science student and software engineer passionate about solving problems through software solutions. 
 
 <br/>
 
