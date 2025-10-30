@@ -194,9 +194,9 @@ For me, **programming is the skill**; languages and frameworks are only tools. H
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 </div>
-<p align="center" style="visibility: hidden">
+<!-- <p align="center" style="visibility: hidden">
     <img src="https://komarev.com/ghpvc/?username=Akinwalee&label=Profile%20views&color=0e75b6&style=flat" alt="Akinwalee" />
-</p>
+</p> -->
 
 <!--
 **Akinwalee/Akinwalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
