@@ -24,10 +24,10 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
 
 <br />
 
-- ⚡️ **I’m currently** working on becoming badass! <br/>
-- 🔭 **Open to**: Mid-level backend or fullstack roles, AI-product engineering, or founding-team opportunities.<br/>
+- ⚡️ **I’m currently** deepening my systems design and architecture expertise <br/>
+- 🔭 **Open to**: Mid-level backend or full-stack roles, AI-product engineering, or founding-team opportunities.<br/>
 - 👯 **Let’s collab** on production-grade `Python/Node` projects or any interesting engineering opportunities. <br/>
-- 💬 **Ask me** about anything `Python`, backend architecture, RAG, or getting 80% efficiency gains.
+- 💬 **Ask me** about anything `Python`, backend architecture, RAG, or getting 40% efficiency gains.
 <br/>
 
 </div>
@@ -81,7 +81,7 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
   </tr>
 
   <tr align="center">
-    <td>
+    <!-- <td>
       <p>
         <b>
           <a href="https://github.com/Akinwalee/AirBnB_clone">HBnB</a>
@@ -93,7 +93,7 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
         <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinwalee&repo=AirBnB_clone&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="HBnB"/>
       </a>
     </td>
-    <td>
+    <td> -->
       <p>
         <b>
           <a href="https://github.com/Akinwalee/Monty">Monty</a>
