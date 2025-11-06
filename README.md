@@ -24,10 +24,10 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
 
 <br />
 
-- ⚡️ **I’m currently** deepening my systems design and architecture expertise <br/>
-- 🔭 **Open to**: Mid-level backend or full-stack roles, AI-product engineering, or founding-team opportunities.<br/>
-- 👯 **Let’s collab** on production-grade `Python/Node` projects or any interesting engineering opportunities. <br/>
-- 💬 **Ask me** about anything `Python`, backend architecture, RAG, or getting 40% efficiency gains.
+- ⚡️ **I’m currently** deepening my expertise in systems design and architecture. <br/>
+- 🔭 **Open to** mid-level backend engineering, full-stack, AI-product engineering, or founding-team opportunities.<br/>
+- 👯 **Let’s collab** on production-grade `Python` or `Node.js` projects and impactful engineering initiatives. <br/>
+- 💬 **Ask me about** `Python`, backend architecture, RAG systems, or getting 40% efficiency gains.
 <br/>
 
 </div>
@@ -37,13 +37,13 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
 
 <table>
   <tr align="center">
-    <td colspan="2">
+    <td>
       <p>
         <b>
           <a href="https://github.com/Akinwalee/vault">Vault</a>
         </b>
       </p>
-      Vault is a dual-entry file management system with CLI + REST API (FastAPI), JWT auth, GridFS storage, and async thumbnail generation via Celery. 
+      Vault is a dual-interface (CLI + REST API) file management system with JWT auth, GridFS storage, and async thumbnail generation via Celery. 
       <br/><br/>
       Uses Repository & Command patterns + MVCS for modularity and scalability.
       <br/><br/>
@@ -51,9 +51,6 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
         <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinwalee&repo=vault&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Vault"/>
       </a>
     </td>
-  </tr>
-
-  <tr align="center">
     <td>
       <p>
         <b>
@@ -64,6 +61,22 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
       <br/><br/>
       <a href="https://github.com/Akinwalee/studyhack">
         <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinwalee&repo=studyhack&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="StudyHack"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td>
+      <p>
+        <b>
+          <a href="https://github.com/Akinwalee/Monty">Monty</a>
+        </b>
+      </p>
+      How best to master the application and working principles of Stacks and Queues than to build an interpreter? <br/><br/>
+      Monty is an interpreter for the Monty Scripting Language, implemented in C.
+      <br/><br/>
+      <a href="https://github.com/Akinwalee/Monty">
+        <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinwalee&repo=monty&theme=react&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Monty"/>
       </a>
     </td>
     <td>
@@ -79,41 +92,13 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
       </a>
     </td>
   </tr>
-
-  <tr align="center">
-    <!-- <td>
-      <p>
-        <b>
-          <a href="https://github.com/Akinwalee/AirBnB_clone">HBnB</a>
-        </b>
-      </p>
-      HBnB is a ground-up replication of AirBnB with the backend having a custom CLI interactive interface, a file-based storage, and various components implemented using the object-oriented programming approach (OOP).
-      <br/><br/>
-      <a href="https://github.com/Akinwalee/AirBnB_clone">
-        <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinwalee&repo=AirBnB_clone&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="HBnB"/>
-      </a>
-    </td>
-    <td> -->
-      <p>
-        <b>
-          <a href="https://github.com/Akinwalee/Monty">Monty</a>
-        </b>
-      </p>
-      How best to master the application and working principles of Stacks and Queues than to build an interpreter? <br/><br/>
-      Monty is an interpreter for the Monty Scripting Language, implemented in C.
-      <br/><br/>
-      <a href="https://github.com/Akinwalee/Monty">
-        <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinwalee&repo=monty&theme=react&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Monty"/>
-      </a>
-    </td>
-  </tr>
 </table>
 
 <br/>
 
 <h2 align="center"> My Toolbox <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="40" align="middle"/> </h2>
 
-For me, **programming is the skill**; languages and frameworks are only tools. Here some of the tools I've reaced for when the job demands it:
+For me, **programming is the skill**; languages and frameworks are only tools. Here some of the tools I've reached for when the job demands it:
 
 <table align="center">
   <tr>
