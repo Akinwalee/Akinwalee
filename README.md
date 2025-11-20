@@ -25,9 +25,9 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
 <br />
 
 - ⚡️ **I’m currently** deepening my expertise in systems design and architecture. <br/>
-- 🔭 **Open to** mid-level backend engineering, full-stack, AI-product engineering, or founding-team opportunities.<br/>
-- 👯 **Let’s collab** on production-grade `Python` or `Node.js` projects and impactful engineering initiatives. <br/>
-- 💬 **Ask me about** `Python`, backend architecture, RAG systems, or getting 40% efficiency gains.
+- 🔭 **Open to** mid-level backend engineering, full-stack, AI product engineering, or founding team opportunities.<br/>
+- 👯 **Let’s collab** on production-grade `Python` projects and impactful engineering initiatives. <br/>
+- 💬 **Ask me about** `Python`, software design, backend architecture, RAG systems, or getting 40% efficiency gains.
 <br/>
 
 </div>
@@ -57,7 +57,7 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
           <a href="https://github.com/Akinwalee/studyhack">StudyHack</a>
         </b>
       </p>
-      StudyHack is an EdTech project that earned me a joint 4th-place win (top 10) in my first-ever hackathon (HackOps 1.0). Worked as the sole backend engineer on the StudyHack project, developing the RESTful API using Python (Flask).
+      StudyHack is an EdTech project that earned me a joint 4th-place win in my first-ever hackathon (HackOps 1.0). Worked as the sole backend engineer on the StudyHack project, developing the RESTful API using Python (Flask).
       <br/><br/>
       <a href="https://github.com/Akinwalee/studyhack">
         <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinwalee&repo=studyhack&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="StudyHack"/>
@@ -98,7 +98,7 @@ I'm Obatula Fuad, a computer scientist and backend-focused software engineer wit
 
 <h2 align="center"> My Toolbox <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="40" align="middle"/> </h2>
 
-For me, **programming is the skill**; languages and frameworks are only tools. Here some of the tools I've reached for when the job demands it:
+For me, **programming is the skill**; languages and frameworks are only tools. Here are some of the tools I've reached for when the job demands it:
 
 <table align="center">
   <tr>
